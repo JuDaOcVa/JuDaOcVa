@@ -17,4 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=judaocva&show_icons=true&locale=en&layout=compact" alt="judaocva" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=judaocva&show_icons=true&locale=en" alt="judaocva" /></p>
-
