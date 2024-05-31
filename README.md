@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan David Ocampo Valencia</h1>
 <h3 align="center">A passionate,enthusiastic and dedicated developer from Colombia</h3>
 
-- 🔭 I’m currently working on **Playtechla - Software Factory in RecargaMe product**
+- 🔭 I’m currently working on **Playtechla - Software Factory in RecargaMe product** leading team-
 
 - 📫 How to reach me **juandavidocampo80@gmail.com**
 
