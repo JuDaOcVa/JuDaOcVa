@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan David Ocampo Valencia</h1>
 <h3 align="center">A passionate,enthusiastic and dedicated developer from Colombia</h3>
 
-- 🔭 I’m currently working on **CODESA - Software Factory in Recaflex migration**
+- 🔭 I’m currently working on **SETI - Software Factory in Promigas Project**
 
 - 📫 How to reach me **juandavidocampo80@gmail.com**
 
